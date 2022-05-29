@@ -1,2 +1,2 @@
 # UnityARMultiQRDecoder
-Using Zxing decoding all of QR Codes at once
+Using Zxing decoding multiple QR Codes at once.
